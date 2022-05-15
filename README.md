@@ -4,7 +4,7 @@ Hi 👋 My name is Manoj Gawade
 Fronted Web Developer
 ---------------------
 
-I've been learning to code for the last 2 years, after switching careers. I started with HTML, Css, JavaScript & Bootstrap, but have really found a passion for Full Stack Development.
+I've been learning to code for the last 2 years, after switching careers. I started with HTML, CSS, JavaScript & Bootstrap, but have really found a passion for Full Stack Development.
 
 * 🌍  I'm based in Sindhudurg, Maharashtra
 * ✉️  You can contact me at [Gawade.manoj7@gmail.com](mailto:Gawade.manoj7@gmail.com)
