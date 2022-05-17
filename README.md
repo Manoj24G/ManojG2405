@@ -8,7 +8,7 @@ I've been learning to code for the last 2 years, after switching careers. I star
 
 * 🌍  I'm based in Sindhudurg, Maharashtra
 * ✉️  You can contact me at [Gawade.manoj7@gmail.com](mailto:Gawade.manoj7@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React & Python.
 
 ### Skills
 
